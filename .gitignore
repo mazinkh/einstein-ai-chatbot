@@ -29,3 +29,5 @@ gradio_cached_examples/
 
 # Jupyter notebooks checkpoints (if any)
 .ipynb_checkpoints/
+# Gradio local state
+.gradio/
