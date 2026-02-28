@@ -32,11 +32,13 @@ This project demonstrates prompt engineering, LLM integration, multi-turn conver
 
 ## 📂 Project Structure
 einstein-ai-chatbot/
-│── main.py          # Chatbot application
-│── einstein.png     # Avatar image
-│── requirements.txt # Dependencies
+│── assets/
+│    └── demo.gif
+│── main.py
+│── einstein.png
+│── requirements.txt
+│── README.md
 │── .gitignore
-└── README.md
 
 ---
 
