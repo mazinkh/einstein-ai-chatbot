@@ -31,3 +31,4 @@ gradio_cached_examples/
 .ipynb_checkpoints/
 # Gradio local state
 .gradio/
+.gradio/
