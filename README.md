@@ -6,6 +6,10 @@ This project demonstrates prompt engineering, LLM integration, multi-turn conver
 
 ---
 
+## Demo
+
+![Demo](assets/demo.gif)
+
 ## 🚀 Features
 
 - 🎭 **Einstein Persona** — Responses generated using custom prompt engineering to mimic Einstein’s voice, humor, and reasoning
