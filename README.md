@@ -31,6 +31,7 @@ This project demonstrates prompt engineering, LLM integration, multi-turn conver
 ---
 
 ## 📂 Project Structure
+```
 einstein-ai-chatbot/
 │── assets/
 │    └── demo.gif
@@ -39,7 +40,7 @@ einstein-ai-chatbot/
 │── requirements.txt
 │── README.md
 │── .gitignore
-
+```
 ---
 
 ## ⚙️ Setup & Installation
